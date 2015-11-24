@@ -1,0 +1,14 @@
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.exe.config
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.exe
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.pdb
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Form1.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Properties.Resources.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.csproj.GenerateResource.Cache
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.exe
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.pdb
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.csprojResolveAssemblyReference.cache
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.BrightnessAndContrast.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Quantaization.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Filters.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Image.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image_GUI.Motion.resources

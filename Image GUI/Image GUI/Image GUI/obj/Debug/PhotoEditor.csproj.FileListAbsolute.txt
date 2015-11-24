@@ -1,0 +1,30 @@
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.BrightnessAndContrast.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Filters.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Form1.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Image.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Motion.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.Quantaization.resources
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.exe
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.exe.config
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.exe
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\bin\Debug\Image GUI.pdb
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\Image GUI.pdb
+D:\Gam3a\4th Year\Image Processing\Image GUI\Image GUI\obj\Debug\PhotoEditor.AlgebraForm.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\bin\Debug\Image GUI.exe.config
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\Image GUI.exe
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\Image GUI.pdb
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\bin\Debug\Image GUI.exe
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\bin\Debug\Image GUI.pdb
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.AlgebraForm.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.BrightnessAndContrast.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Filters.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Form1.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Image.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Motion.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.Quantaization.resources
+C:\Users\ahmedelkashef\Downloads\Image GUI\Image GUI\Image GUI\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
